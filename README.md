@@ -1,1 +1,1 @@
-# 2023-PVA4-projekt1-ToDoList
+# Jedná se o aplikaci, která zobrazuje nesplněné úkoly.
